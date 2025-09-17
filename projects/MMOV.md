@@ -21,26 +21,10 @@ MMOV is a private members-only application designed for men's groups. The app pr
 
 ---
 
-## 🏗 System Architecture
-### Frontend
-- **Framework:** React with TypeScript + Vite
-- **Routing:** Wouter (role-based navigation)
-- **UI:** Shadcn/UI + Tailwind CSS
-- **State Management:** TanStack React Query
-- **Forms:** React Hook Form + Zod
-- **File Uploads:** Custom ObjectUploader → Google Cloud Storage
+## 🏗 System Features
 
-### Backend
-- **Runtime:** Node.js + Express.js (TypeScript, ES modules)
-- **Database:** PostgreSQL via Drizzle ORM
-- **Sessions:** Express sessions stored in PostgreSQL
-- **Storage:** Google Cloud Storage for profile images and files
-- **API:** RESTful endpoints with authentication middleware
-
-### Authentication & Authorization
-- **Identity Provider:** Replit OIDC
-- **Sessions:** PostgreSQL-backed secure cookies
-- **Roles:** Member, Admin, Super Admin
-- **Profile Gating:** Users must complete profiles before gaining full access
-
----
+- 📅 **Events Calendar** – members can view and RSVP to group events  
+- 👥 **Member Directory** – searchable list of members with profiles  
+- 🖥️ **Dashboard** – central hub for quick access to group info  
+- 🛠️ **Admin Controls** – role-based access with admin and super admin features  
+- ⚙️ **Admin Control Panel** – manage users, events, and permissions in one place  
