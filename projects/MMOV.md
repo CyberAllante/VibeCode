@@ -1,8 +1,8 @@
+# MMOV – Men's Group Management App
+
 <p align="center">
   <img src="../images/screencapture-mmov-replit-app-2025-09-17-19_24_25.png" alt="MMOV App Screenshot" width="800">
 </p>
-
-# MMOV – Men's Group Management App
 
 ## 📖 Overview
 MMOV is a private members-only application designed for men's groups. The app provides a secure platform where members can create accounts, complete required profiles, and access shared calendars and directories. A three-tier role-based system (Member, Admin, Super Admin) ensures that permissions and features are properly controlled.
