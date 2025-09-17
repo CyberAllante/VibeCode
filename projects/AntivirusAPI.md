@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/antivirus-api-banner.png" alt="Antivirus Scanning API Service Screenshot" width="800">
+  <img src="../images/screencapture-125419f3-721d-4293-bfcd-7a925647bd7f-00-39po3w4n5na1d-kirk-replit-dev-2025-09-17-19_52_02.png" width="800">
 </p>
 
 # Antivirus Scanning API Service – Technical Documentation
