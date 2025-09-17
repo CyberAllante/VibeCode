@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/sporescan-banner.png" alt="Spore Scan Screenshot" width="800">
+  <img src="images/screencapture-spore-shield-ai-allantedjohnson-replit-app-2025-09-17-19_35_24.png">
 </p>
 
 # Spore Scan – AI Mold Detection App
