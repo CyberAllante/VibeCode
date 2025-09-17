@@ -1,4 +1,4 @@
-![MMOV Banner](https://imgur.com/lBRpJ33)
+images/screencapture-mmov-replit-app-2025-09-17-19_24_25.png
 
 # MMOV – Men's Group Management App
 
