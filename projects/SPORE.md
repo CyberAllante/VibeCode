@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/screencapture-spore-shield-ai-allantedjohnson-replit-app-2025-09-17-19_35_24.png">
+  <img src="../images/screencapture-spore-shield-ai-allantedjohnson-replit-app-2025-09-17-19_35_24.png" alt="Spore Scan Screenshot" width="800">
 </p>
 
 # Spore Scan – AI Mold Detection App
@@ -30,4 +30,3 @@ Spore Scan is a web application that uses AI-powered image analysis to detect an
 ---
 
 [🔙 Back to Portfolio](../README.md)
-
