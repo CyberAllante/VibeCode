@@ -1,8 +1,8 @@
+# Antivirus Scanning API Service – Technical Documentation
+
 <p align="center">
   <img src="../images/screencapture-125419f3-721d-4293-bfcd-7a925647bd7f-00-39po3w4n5na1d-kirk-replit-dev-2025-09-17-19_52_02.png" width="800">
 </p>
-
-# Antivirus Scanning API Service – Technical Documentation
 
 ## 📖 Overview
 The Antivirus Scanning API Service is a production-ready, enterprise-grade file scanning solution built with FastAPI. It provides multi-engine malware detection, supports both immediate and asynchronous workflows, and is designed for integration with AI-powered coding platforms like Replit Agent, Bolt, Lovable, Cursor, and v0.
