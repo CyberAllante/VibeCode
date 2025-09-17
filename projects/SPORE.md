@@ -1,8 +1,8 @@
+# Spore Scan – AI Mold Detection App
+
 <p align="center">
   <img src="../images/screencapture-spore-shield-ai-allantedjohnson-replit-app-2025-09-17-19_35_24.png" alt="Spore Scan Screenshot" width="800">
 </p>
-
-# Spore Scan – AI Mold Detection App
 
 ## 📖 Overview
 Spore Scan is a web application that uses AI-powered image analysis to detect and identify mold in photos. Users can upload or capture images, receive instant AI analysis with detailed results (mold type, confidence levels, health risks, and remediation recommendations), and connect directly with professional remediation services through a built-in contact form.
