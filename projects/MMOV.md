@@ -1,3 +1,5 @@
+![MMOV Banner](https://imgur.com/a/lBRpJ33)
+
 # MMOV – Men's Group Management App
 
 ## 📖 Overview
