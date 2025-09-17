@@ -25,12 +25,11 @@ I'm passionate about building and shipping AI‑assisted apps fast with Vibe‑s
 ## 🌐 Web & App Projects
 
 
-### • [MMOV – Men's Group Management App](projects/MMOV.md)
-**Summary:** A private members‑only application for men’s groups with account creation, profile gating, shared calendars, and directories. Features secure role‑based access control (members, admins, super admin).
+### • [Spore Scan – AI Mold Detection App](projects/SporeScan.md)  
+**Summary:** An AI-powered web app that detects and identifies mold in photos. Users can upload images for instant analysis with mold type, confidence levels, health risk assessments, and remediation recommendations, plus connect with professionals through an integrated contact form. Powered by OpenAI, Resend, and Neon PostgreSQL.
 
 
 ---
 
-### • [Spore Scan – AI Mold Detection App](projects/SporeScan.md)  
-**Summary:** An AI-powered web app that detects and identifies mold in photos. Users can upload images for instant analysis with mold type, confidence levels, health risk assessments, and remediation recommendations, plus connect with professionals through an integrated contact form. Powered by OpenAI, Resend, and Neon PostgreSQL.
-
+### • [MMOV – Men's Group Management App](projects/MMOV.md)
+**Summary:** A private members‑only application for men’s groups with account creation, profile gating, shared calendars, and directories. Features secure role‑based access control (members, admins, super admin).
