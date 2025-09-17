@@ -1,4 +1,6 @@
-![MMOV App Screenshot](../images/screencapture-mmov-replit-app-2025-09-17-19_24_25.png)
+<p align="center">
+  <img src="../images/screencapture-mmov-replit-app-2025-09-17-19_24_25.png" alt="MMOV App Screenshot" width="800">
+</p>
 
 # MMOV – Men's Group Management App
 
@@ -7,8 +9,19 @@ MMOV is a private members-only application designed for men's groups. The app pr
 
 ---
 
-## 🏗 System Architecture
+## ⚡ Tech Highlights
+- 🚀 Built with **React + Vite + TypeScript** (frontend)  
+- 🗄️ **Node.js + Express + PostgreSQL** backend with Drizzle ORM  
+- 🔑 **Replit OIDC authentication** with secure session handling  
+- 🔒 **Role-based access control (RBAC)**: Member, Admin, Super Admin  
+- 📂 **Google Cloud Storage integration** for profile images & file uploads  
+- ✅ **Validation pipeline** using Zod + React Hook Form  
+- ⚙️ **Database migrations** with Drizzle Kit  
+- 🎯 Designed for secure, production-ready internal SaaS apps  
 
+---
+
+## 🏗 System Architecture
 ### Frontend
 - **Framework:** React with TypeScript + Vite
 - **Routing:** Wouter (role-based navigation)
@@ -31,39 +44,3 @@ MMOV is a private members-only application designed for men's groups. The app pr
 - **Profile Gating:** Users must complete profiles before gaining full access
 
 ---
-
-## 🗄 Database Schema
-- **Users Table:** profile info, roles, completion status
-- **Events Table:** group events, creator, location
-- **Sessions Table:** session persistence
-- **Roles:** enum constraint for role enforcement
-
----
-
-## ✅ Validation & Tooling
-- **Validation:** Zod schemas shared across frontend & backend
-- **Build Tool:** Vite with hot module replacement
-- **Migrations:** Drizzle Kit
-- **Type Safety:** Full strict TypeScript mode
-
----
-
-## 🔧 External Dependencies
-- **Database:** Neon PostgreSQL (serverless)
-- **Storage:** Google Cloud Storage
-- **Authentication:** Replit OIDC
-- **UI Components:** Radix + shadcn/ui
-- **Date Handling:** date-fns
-- **Validation:** Zod
-
----
-
-## 🚀 Development Tools
-- **Build:** Vite + TypeScript
-- **Database Tools:** Drizzle ORM + Drizzle Kit
-- **Session Store:** connect-pg-simple
-- **Plugins:** Replit-specific Vite plugins
-
----
-
-[🔙 Back to Portfolio](../README.md)
