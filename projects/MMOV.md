@@ -1,4 +1,4 @@
-images/screencapture-mmov-replit-app-2025-09-17-19_24_25.png
+![MMOV App Screenshot](../images/screencapture-mmov-replit-app-2025-09-17-19_24_25.png)
 
 # MMOV – Men's Group Management App
 
