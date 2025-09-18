@@ -4,7 +4,7 @@ I'm passionate about building and shipping advanced applications with Vibe codin
 
 With over 10 years of experience in IT operations, networking, and cybersecurity, I’ve managed enterprise infrastructure, led IT asset recovery with law enforcement, and deployed large scale technology across 30+ sites. Certified in CySA+, Pentest+, and ISC2 CC, I specialize in automation, API integration, database design, and delivering secure, production ready applications.
 
-I’m also a Replit expert with hands-on experience building and deploying applications across modern AI coding platforms like Bolt, Lovable, Cursor, and Windsurf.
+I’m a Replit expert and alo builds and deploys apps on Bolt, Lovable, Cursor, and Windsurf. I also do penetration testing on my projects so the software I ship is secure, reliable, and ready for real users.
 
 > **Status:** 🔄 Actively adding new projects. Last updated: <!-- date -->
 
