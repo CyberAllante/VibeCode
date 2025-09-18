@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td><img src="../images/screencapture-dashboard-amandalucaj-2025-09-17-20_12_05.png" width="100%"></td>
-      <td><img src="../images/email-calendar-2.png" alt="Email Marketing Calendar Dashboard – Screenshot 2" width="100%"></td>
+      <td><img src="../images/dashbaordflow.png" width="100%"></td>
     </tr>
   </table>
 </p>
