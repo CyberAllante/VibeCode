@@ -39,6 +39,10 @@ With over 10 years of experience in IT operations, networking, and cybersecurity
 ### • [Spore Scan – AI Mold Detection App](projects/SporeScan.md)  
 **Summary:** An AI-powered web app that detects and identifies mold in photos. Users can upload images for instant analysis with mold type, confidence levels, health risk assessments, and remediation recommendations, plus connect with professionals through an integrated contact form. Powered by OpenAI, Resend, and Neon PostgreSQL.
 
+---
+
+### • [Safe K-12 Group Website](projects/SafeK12.md)  
+**Summary:** A rebuilt school safety platform with resources, consulting, and lead generation. Features an AI chatbot, admin dashboard, program listings, and secure client access. **APIs Used:** OpenAI, Make.com, Neon PostgreSQL.
 
 ---
 
