@@ -1,3 +1,5 @@
+# Email Marketing Calendar Dashboard
+
 <p align="center">
   <!-- Two images side by side -->
   <table>
@@ -7,8 +9,6 @@
     </tr>
   </table>
 </p>
-
-# Email Marketing Calendar Dashboard
 
 ## 📖 Overview
 A modern multi client email marketing calendar with visual flow automation. Agencies use it to plan campaigns, show clients their schedules, and present automation sequences with a clean calendar and a simple access model.
