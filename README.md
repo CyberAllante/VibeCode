@@ -13,13 +13,14 @@ With over 10 years of experience in IT operations, networking, and cybersecurity
 
 
 ## 🧭 Table of Contents
-- [Vulnerability Management](#-vulnerability-management)
-- [Threat Hunting & SecOps](#-threat-hunting--secops)
-- [Automation & Tools](#-automation--tools)
-- [Web & App Projects](#-web--app-projects)
-- [ML / AI Experiments](#-ml--ai-experiments)
-- [Contact](#-contact)
-
+- [VibeCheck Security Scanner](#-vibecheck-security-scanner)
+- [Email Marketing Calendar Dashboard](#-email-marketing-calendar-dashboard)
+- [Spore Scan – AI Mold Detection App](#-spore-scan--ai-mold-detection-app)
+- [LiveRadius – Intelligent Apartment Discovery Platform](#-liveradius--intelligent-apartment-discovery-platform)
+- [Safe K-12 Group Website](#-safe-k-12-group-website)
+- [MMOV – Men's Group Management App](#-mmov--mens-group-management-app)
+- [Kingdom Success Booking Platform](#-kingdom-success-booking-platform)
+- [Contact](#contact)
 
 ---
 
@@ -41,6 +42,11 @@ With over 10 years of experience in IT operations, networking, and cybersecurity
 
 ---
 
+### • [LiveRadius – Intelligent Apartment Discovery Platform](projects/LiveRadius.md)  
+**Summary:** An AI powered apartment search app that matches users to apartments based on lifestyle preferences and commute priorities. Features compatibility scoring, live data from Google Maps and RentCast, and AI insights. **APIs Used:** Google Maps, RentCast, OpenAI.
+
+---
+
 ### • [Safe K-12 Group Website](projects/SafeK12.md)  
 **Summary:** A rebuilt school safety platform with resources, consulting, and lead generation. Features an AI chatbot, admin dashboard, program listings, and secure client access. **APIs Used:** OpenAI, Make.com, Neon PostgreSQL.
 
@@ -54,3 +60,7 @@ With over 10 years of experience in IT operations, networking, and cybersecurity
 ### • [Kingdom Success Booking Platform](projects/KingdomSuccess.md)  
 **Summary:** A faith based home services platform with multi service booking, role based authentication, service specific forms, and Stripe powered payments. **APIs Used:** Neon PostgreSQL, Stripe, Replit Platform.
 
+---
+
+## Contact
+Email: [tellybobllc@gmail.com](mailto:tellybobllc@gmail.com)
