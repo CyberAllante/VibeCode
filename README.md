@@ -48,3 +48,9 @@ With over 10 years of experience in IT operations, networking, and cybersecurity
 
 ### • [MMOV – Men's Group Management App](projects/MMOV.md)
 **Summary:** A private members‑only application for men’s groups with account creation, profile gating, shared calendars, and directories. Features secure role‑based access control (members, admins, super admin).
+
+---
+
+### • [Kingdom Success Booking Platform](projects/KingdomSuccess.md)  
+**Summary:** A faith based home services platform with multi service booking, role based authentication, service specific forms, and Stripe powered payments. **APIs Used:** Neon PostgreSQL, Stripe, Replit Platform.
+
