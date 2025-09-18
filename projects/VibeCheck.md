@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="../images/vibecheck-banner.png" alt="VibeCheck Security Scanner Screenshot" width="800">
-</p>
-
 # VibeCheck Security Scanner – Project Documentation
+
+<p align="center">
+  <img src="../images/screencapture-0fb01dec-04be-4d3f-82ed-bb956494732e-00-30xzqefeh7h3s-riker-replit-dev-app-dashboard-2025-09-17-20_03_37.png" width="800">
+</p>
 
 ## 📖 Overview
 VibeCheck Security Scanner is a production-ready security scanning platform that analyzes web applications and GitHub repositories for vulnerabilities, exposed secrets, and misconfigurations. It delivers AI-powered scorecard reports with risk levels, remediation guidance, and historical progress tracking.
