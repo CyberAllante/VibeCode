@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/safek12-banner.png" alt="Safe K-12 Group Website Screenshot" width="800">
+  <img src="../images/sakek12.png" width="800">
 </p>
 
 # Safe K-12 Group Website – Project Documentation
