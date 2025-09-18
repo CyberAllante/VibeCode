@@ -1,7 +1,8 @@
 # Allante`s Vibe‑Coded Project Portfolio 🔒
 
 
-I'm passionate about building and shipping AI‑assisted apps fast with Vibe‑style workflows. This portfolio collects my projects across security, automation, and creative tooling. Explore the sections below and dive into the repos, write‑ups, and live demos.
+I'm passionate about building and shipping AI-assisted apps fast with Vibe-style workflows. With over 10 years of experience in IT operations, networking, and security, I’ve managed enterprise infrastructure, led IT asset recovery with law enforcement, and deployed large-scale technology across 30+ sites:contentReference[oaicite:0]{index=0}. Certified in CySA+, Pentest+, and ISC2 CC, I bring a strong foundation in security operations, vulnerability management, and incident response:contentReference[oaicite:1]{index=1}—now applying that expertise to building AI-powered security and automation tools.
+
 
 
 > **Status:** 🔄 Actively adding new projects. Last updated: <!-- date -->
