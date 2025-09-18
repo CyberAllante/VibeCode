@@ -1,3 +1,5 @@
+# Kingdom Success Inc – Project Documentation
+
 <p align="center">
   <!-- Two images side by side -->
   <table>
@@ -8,7 +10,6 @@
   </table>
 </p>
 
-# Kingdom Success Inc – Project Documentation
 
 ## 📖 Overview
 Kingdom Success Inc is a faith based home services platform offering moving, cleaning, landscaping, and handyman services. The application includes a complete booking system, user authentication, payment processing, admin management, and service specific workflows.
