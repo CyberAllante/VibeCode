@@ -6,7 +6,7 @@ With over 10 years of experience in IT operations, networking, and cybersecurity
 
 I’m a Replit expert and alo builds and deploys apps on Bolt, Lovable, Cursor, and Windsurf. I also do penetration testing on my projects so the software I ship is secure, reliable, and ready for real users.
 
-> **Status:** 🔄 Actively adding new projects. Last updated: <!-- date -->
+> **Status:** 🔄 Actively adding new projects.
 
 
 ---
