@@ -1,8 +1,9 @@
+# Safe K-12 Group Website – Project Documentation
+
 <p align="center">
   <img src="../images/sakek12.png" width="800">
 </p>
 
-# Safe K-12 Group Website – Project Documentation
 
 ## 📖 Overview
 The Safe K-12 Group Website is a rebuilt web platform designed to promote school safety through interactive educational tools, consulting services, and resource sharing. Rebuilt from WordPress into a modern React + Express stack, the site features an AI-powered chatbot, consulting service booking, and lead generation forms integrated with automation workflows.
