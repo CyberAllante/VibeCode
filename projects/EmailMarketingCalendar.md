@@ -1,10 +1,6 @@
 # Email Marketing Calendar Dashboard
 
-<p align="center">
-  <!-- Two images side by side -->
-  <table>
-    <tr>
-      <td><img src="../images/screencapture-dashboard-amandalucaj-2025-09-17-20_12_05.png" width="100%"></td>
+<td><img src="../images/screencapture-dashboard-amandalucaj-2025-09-17-20_12_05.png" width="100%"></td>
       
     </tr>
   </table>
