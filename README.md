@@ -29,9 +29,12 @@ With over 10 years of experience in IT operations, networking, and cybersecurity
 ### • [VibeCheck Security Scanner](projects/VibeCheck.md)  
 **Summary:** A security scanning platform that analyzes web apps and GitHub repos for vulnerabilities, secrets, and misconfigurations. Features AI-powered scorecard reporting, GitHub OAuth integration, a credit system, and admin portal. **APIs Used:** OpenAI, Anthropic Claude, GitHub API, Supabase, Lemon Squeezy.
 
-
 ---
 
+### • [Email Marketing Calendar Dashboard](projects/EmailMarketingCalendar.md)  
+**Summary:** A multi client email marketing calendar with visual flow automation, client portals, and admin controls for campaigns, flows, and analytics. **APIs Used:** Neon PostgreSQL, Google Cloud Storage (Replit Sidecar), Replit Platform.
+
+---
 
 ### • [Spore Scan – AI Mold Detection App](projects/SporeScan.md)  
 **Summary:** An AI-powered web app that detects and identifies mold in photos. Users can upload images for instant analysis with mold type, confidence levels, health risk assessments, and remediation recommendations, plus connect with professionals through an integrated contact form. Powered by OpenAI, Resend, and Neon PostgreSQL.
