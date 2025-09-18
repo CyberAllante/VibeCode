@@ -1,3 +1,5 @@
+# LiveRadius – Intelligent Apartment Discovery Platform
+
 <p align="center">
   <!-- Two images side by side -->
   <table>
@@ -7,8 +9,6 @@
     </tr>
   </table>
 </p>
-
-# LiveRadius – Intelligent Apartment Discovery Platform
 
 ## 📖 Overview
 LiveRadius is an apartment discovery platform that goes beyond price and size. It uses AI powered lifestyle matching to connect users with apartments based on their daily routines, commute preferences, and proximity to important locations like work, gyms, or grocery stores.
