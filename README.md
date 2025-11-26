@@ -64,13 +64,3 @@ I’m a Replit expert and alo builds and deploys apps on Bolt, Lovable, Cursor, 
 
 ## Contact
 Email: [tellybobllc@gmail.com](mailto:tellybobllc@gmail.com)
-
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-ISC2%20Certified-000080?style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 Certified Badge" />
-<img src="https://img.shields.io/badge/-CySA%2B-006400?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Badge" /> 
-<img src="https://img.shields.io/badge/-CompTIA%20Pentest%2B-FF4500?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Pentest+ Badge" />
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS Cloud Practitioner Badge" />
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-0078D4?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" /> 
-</div>
